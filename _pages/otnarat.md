@@ -16,17 +16,17 @@ Incontrando il maestro Carrino a Roma abbiamo modo di accedere al suo archivio: 
 
 Carrino è anni dopo autore della riqualificazione architettonica di piazza Fontana (voluta da Carlo V), piazza che anticipa ed introduce il visitatore nella Taranto vecchia e che diventa di accesso ad Otnarat: città dell'immaginario, dell'azione collettiva e del ritorno alla speranza in un'altra Taranto possibile.
 
-In questo tempo al futuro inverso, il presente è riconsegnato ai tarantini ed il Palazzo Ulmo in via Duomo (storico edificio abbandonato nel cuore della città vecchia), diviene dispositivo da cui Matteo Fraterno (artista relazionale napoletano), Lorenzo Romito (laborario d'arte urbana Staker/ON), Giorgio de Finis (direttore casa dell'Architettura di Roma) ed il Ilmotorediricerca (collettivo multidisciplinare) intercettano le istanze e le urgenze del territorio sviluppando quindi la struttura filmica.
+In questo tempo al futuro inverso, il presente è riconsegnato ai tarantini ed il <a href="https://it.wikipedia.org/wiki/Palazzo_Ulmo" class="gold">Palazzo Ulmo</a> in via Duomo (storico edificio abbandonato nel cuore della città vecchia), diviene dispositivo da cui Matteo Fraterno (artista relazionale napoletano), Lorenzo Romito (laborario d'arte urbana Staker/ON), Giorgio de Finis (direttore casa dell'Architettura di Roma) ed il Ilmotorediricerca (collettivo multidisciplinare) intercettano le istanze e le urgenze del territorio sviluppando quindi la struttura filmica.
 
-*Regia: Nico Angiuli.
-Sceneggiatura: Nico Angiuli, Roberto dell’Orco, Michele Loiacono.
-Con: Nicola Carrino, Matteo Fraterno, Lorenzo Romito, Angelo Losasso, Aldo Scatigna, Francesco Dracca, Taranto old city's citizens.
-Montaggio: Stefano Muti.
-Suono: Mauro Boccuni.
-Musica: Angelo Losasso, Francesco Dracca, Aldo Scatigna.
-Progetto grafico: Roberto dell’Orco, PiaLivia Di Tardo.
-Produzione: In Iride Sfoggio srl.
-Progetto memoria <a href="http://www.apuliafilmcommission.it/">_*Apulia Film Commission*_</a>
+*Regia: Nico Angiuli*
+*Sceneggiatura: Nico Angiuli, Roberto dell’Orco, Michele Loiacono*
+*Con: Nicola Carrino, Matteo Fraterno, Lorenzo Romito, Angelo Losasso, Aldo Scatigna, Francesco Dracca*
+*Montaggio: Stefano Muti*
+*Suono: Mauro Boccuni*
+*Musica: Angelo Losasso, Francesco Dracca, Aldo Scatigna*
+*Progetto grafico: Roberto dell’Orco, PiaLivia Di Tardo*
+*Produzione: In Iride Sfoggio srl*
+*Progetto memoria <a href="http://www.apuliafilmcommission.it/" class="gold">_**Apulia Film Commission**_</a>
 
 <a href="/assets/images/otnarat/05-otnarat.jpg">
 <a href="/assets/images/otnarat/02-otnarat.jpg">

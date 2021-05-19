@@ -7,7 +7,7 @@ permalink: /adelfia-fratelli
 ---
 Video performance, Volos-Milies, Grece, 19'40".
 
-Alla fine dell’Ottocento l’ingegnere Evaristo de Chirico fu incaricato di costruire la ferrovia Milies-Volos per unire il golfo di Pagasitikos con il monte Pilio, “...una piccola ferrovia a scartamento ridotto che allacciava quel porto argonautico con l’interno della Tessaglia.” (A. Savinio).
+Alla fine dell’Ottocento l’ingegnere <a href="https://it.wikipedia.org/wiki/Evaristo_de_Chirico" class="gold">Evaristo de Chirico</a> fu incaricato di costruire la ferrovia Milies-Volos per unire il golfo di Pagasitikos con il monte Pilio, “...una piccola ferrovia a scartamento ridotto che allacciava quel porto argonautico con l’interno della Tessaglia.” (A. Savinio).
 Una video performance realizzata sui binari del treno di Evaristo, dedicato al paesaggio dell'infanzia di due fratelli artisti del XX sec, Alberto Savinio e Giorgio de Chirico.
 
 *Un video diretto da Matteo Fraterno.  

@@ -5,9 +5,9 @@ data: 2013
 luogo: Porta Palazzo, Torino
 permalink: /sogno-cirio
 ---
-Un progetto realizzato nell’ambito del programma di residenza viadellafucina-2013 di KaninchenHaus Torino.
+Un progetto realizzato nell’ambito del programma di residenza viadellafucina-2013 di <a href="https://www.kaninchenhaus.org/" class="gold">KaninchenHaus Torino</a>.
 
-Parole estratte casualmente da "La Cooperazione in Agricoltura?" e "Relazione intorno alle colonie penali agricole della Sardegna" testi scritti alla fine del XIX da Francesco Cirio, pioniere della conservazione del cibo in scatola, sono state incise al laser su pomodori San Marzano.
+Parole estratte casualmente da "La Cooperazione in Agricoltura?" e "Relazione intorno alle colonie penali agricole della Sardegna" testi scritti alla fine del XIX da <a href="https://en.wikipedia.org/wiki/Francesco_Cirio" class="gold">Francesco Cirio</a>, pioniere della conservazione del cibo in scatola, sono state incise al laser su pomodori San Marzano.
 Destinate a svanire in un barattolo di passata o a divenire illeggibili mano a mano che il frutto marcisce.
 
 *Un progetto di Roberto dell'Orco (ilmotorediricerca) e Alessandra Giannandrea.      
