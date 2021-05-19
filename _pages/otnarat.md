@@ -26,7 +26,7 @@ Suono: Mauro Boccuni.
 Musica: Angelo Losasso, Francesco Dracca, Aldo Scatigna.
 Progetto grafico: Roberto dell’Orco, PiaLivia Di Tardo.
 Produzione: In Iride Sfoggio srl.
-Progetto memoria Apulia Film Commission*
+Progetto memoria <a href="http://www.apuliafilmcommission.it/">_*Apulia Film Commission*_</a>
 
 <a href="/assets/images/otnarat/05-otnarat.jpg">
 <a href="/assets/images/otnarat/02-otnarat.jpg">

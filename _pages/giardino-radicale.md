@@ -7,8 +7,7 @@ permalink: /giardino-radicale
 ---
 All’interno del carcere Borgo San Nicola di Lecce, nella sezione maschile nasce il laboratorio GIARDINO RADICALE. Supportati da un gruppo di designer ed artisti, i detenuti esplorano attraverso processi partecipati nuovi immaginari per trasformare gli spazi comuni all’interno della loro sezione, progettandoli e modificandoli collettivamente.
 
-[Articolo su Domusweb](http://www.domusweb.it/en/interviews/2014/08/13/gap_transforming_theborderlands.html)
-
+<a class="gold" href="http://www.domusweb.it/en/interviews/2014/08/13/gap_transforming_theborderlands.html">**Articolo su Domusweb**</a>
 *Ideazione e cura: Francesca Marconi
 Coordinamento: Paola Leone
 Artisti e designer in residenza: Maurizio Buttazzo e Roberto dell'Orco
