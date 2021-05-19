@@ -4,8 +4,6 @@ title: Aδερφια-Fratelli. I figli di Evaristo de Chirico
 data: 2009
 luogo: Ferrovia a scartamento ridotto tra Milies e Volos, Pilio, Grecia
 permalink: /adelfia-fratelli
-images:
-  - image: /assets/adelfia/01-adelfia-fratelli.jpg
 ---
 Video performance, Volos-Milies, Grece, 19'40".
 
