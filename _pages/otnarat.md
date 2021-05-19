@@ -18,15 +18,15 @@ Carrino è anni dopo autore della riqualificazione architettonica di piazza Font
 
 In questo tempo al futuro inverso, il presente è riconsegnato ai tarantini ed il <a href="https://it.wikipedia.org/wiki/Palazzo_Ulmo" class="gold">Palazzo Ulmo</a> in via Duomo (storico edificio abbandonato nel cuore della città vecchia), diviene dispositivo da cui Matteo Fraterno (artista relazionale napoletano), Lorenzo Romito (laborario d'arte urbana Staker/ON), Giorgio de Finis (direttore casa dell'Architettura di Roma) ed il Ilmotorediricerca (collettivo multidisciplinare) intercettano le istanze e le urgenze del territorio sviluppando quindi la struttura filmica.
 
-*Regia: Nico Angiuli*
-*Sceneggiatura: Nico Angiuli, Roberto dell’Orco, Michele Loiacono*
-*Con: Nicola Carrino, Matteo Fraterno, Lorenzo Romito, Angelo Losasso, Aldo Scatigna, Francesco Dracca*
-*Montaggio: Stefano Muti*
-*Suono: Mauro Boccuni*
-*Musica: Angelo Losasso, Francesco Dracca, Aldo Scatigna*
-*Progetto grafico: Roberto dell’Orco, PiaLivia Di Tardo*
-*Produzione: In Iride Sfoggio srl*
-*Progetto memoria <a href="http://www.apuliafilmcommission.it/" class="gold">_**Apulia Film Commission**_</a>
+*Regia: Nico Angiuli
+Sceneggiatura: Nico Angiuli, Roberto dell’Orco, Michele Loiacono
+Con: Nicola Carrino, Matteo Fraterno, Lorenzo Romito, Angelo Losasso, Aldo Scatigna, Francesco Dracca
+Montaggio: Stefano Muti
+Suono: Mauro Boccuni
+Musica: Angelo Losasso, Francesco Dracca, Aldo Scatigna
+Progetto grafico: Roberto dell’Orco, PiaLivia Di Tardo
+Produzione: In Iride Sfoggio srl
+Progetto memoria <a href="http://www.apuliafilmcommission.it/" class="gold">_**Apulia Film Commission**_</a>*
 
 <a href="/assets/images/otnarat/05-otnarat.jpg">
 <a href="/assets/images/otnarat/02-otnarat.jpg">
